@@ -39,7 +39,7 @@ A Alexa foi escolhida como meio de interface por ser uma tecnologia amplamente a
 ---
 
 ## 🧭 Fluxo de funcionamento (protótipo)
-![Fluxograma do Projeto](C:\Users\luizh\OneDrive\Área de Trabalho\Fiap\Challenge 2025\Fluxograma de funcionamento.jpg)
+![Fluxograma do Projeto](Fluxograma_de_funcionamento.jpg)
 
 ---
 
